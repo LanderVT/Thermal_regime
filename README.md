@@ -1,4 +1,4 @@
-# Thermal_regime
+# Thermal regime
 Datasets used to model and obtain the thermal regime of the Grigoriev ice cap and the Sary-Tor glacier. 
 
 In this repository, the climatic data of the Kumtor-Tien Shan meteorological stations can be found:
