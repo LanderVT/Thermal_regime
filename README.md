@@ -23,4 +23,6 @@ Content of this repository:
 * Temp (Average temperature of the upper ice layer)
 * SMB (Surface mass balance)
 
+4) Ice thickness distributions valid for 1990
+
 Other data can be requested via lander.van.tricht@vub.be
