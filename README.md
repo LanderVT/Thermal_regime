@@ -16,4 +16,11 @@ Content of this repository:
 
 2) The outlines of the ice masses (.shapefile).
 
+3) The different boundary conditions under average 1960-1990 climatic conditions.
+
+* Sir warming (warming due to superimposed ice formation)
+* Snow warming (warming due to the insulation of snow)
+* Temp (Average temperature of the upper ice layer)
+* SMB (Surface mass balance)
+
 Other data can be requested via lander.van.tricht@vub.be
