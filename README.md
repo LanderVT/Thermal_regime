@@ -25,4 +25,4 @@ Content of this repository:
 
 4) Ice thickness distributions valid for 1990
 
-Other data can be requested via lander.van.tricht@vub.be
+Other data or model information can be requested via lander.van.tricht@vub.be
