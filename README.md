@@ -3,6 +3,7 @@ Datasets used to model and obtain the thermal regime of the Grigoriev ice cap an
 
 Content of this repository:
 
+
 1) The climatic data of the Kumtor-Tien Shan meteorological stations:
 
 * Kumtor-Tien Shan (3659 m) 
@@ -11,6 +12,7 @@ Content of this repository:
 * Precipitation (Prec)
 * Yearly (1 Oct - 30 Sept) precipitation (Pter)
 * The provided .matlab file can be used to interpolate the 3-hourly meteorological data to hourly data.
+
 
 2) The outlines of the ice masses (.shapefile).
 
